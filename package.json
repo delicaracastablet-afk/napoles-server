@@ -7,7 +7,7 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "tinybase": "^4.0.0",
+    "tinybase": "4.8.17",
     "ws": "^8.0.0"
   }
 }
