@@ -6,4 +6,4 @@ const server = new WebSocketServer({ port });
 
 createWsServer(server, { path: '/mi-profit-sync' });
 
-console.log(`✅ Servidor de Sincronización corriendo en el puerto ${port}`);
+console.log('Servidor de Sincronizacion corriendo en el puerto ' + port);
